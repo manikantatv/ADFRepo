@@ -1,0 +1,9 @@
+{
+	"name": "azureDFmaniGit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4636a930-fc61-475f-8cec-2525bcc29bea",
+		"tenantId": "fc8f205d-9dd1-40e9-9cbd-91bb6e8ceb04"
+	}
+}
